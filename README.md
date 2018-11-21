@@ -1,1 +1,1 @@
-java_address_book
+Academic project for creating an address book in Java
